@@ -15,6 +15,7 @@
 		2E219F2D1E21E0140094CA34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E219F2B1E21E0140094CA34 /* LaunchScreen.storyboard */; };
 		2E219F381E21E0140094CA34 /* Choice_questionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E219F371E21E0140094CA34 /* Choice_questionTests.m */; };
 		2E219F431E21E0140094CA34 /* Choice_questionUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E219F421E21E0140094CA34 /* Choice_questionUITests.m */; };
+		2E219F521E21E0620094CA34 /* QRadioButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E219F511E21E0620094CA34 /* QRadioButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		2E219F3E1E21E0140094CA34 /* Choice_questionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Choice_questionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E219F421E21E0140094CA34 /* Choice_questionUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Choice_questionUITests.m; sourceTree = "<group>"; };
 		2E219F441E21E0140094CA34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E219F501E21E0620094CA34 /* QRadioButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QRadioButton.h; sourceTree = "<group>"; };
+		2E219F511E21E0620094CA34 /* QRadioButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QRadioButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				2E219F211E21E0140094CA34 /* AppDelegate.m */,
 				2E219F231E21E0140094CA34 /* ViewController.h */,
 				2E219F241E21E0140094CA34 /* ViewController.m */,
+				2E219F501E21E0620094CA34 /* QRadioButton.h */,
+				2E219F511E21E0620094CA34 /* QRadioButton.m */,
 				2E219F261E21E0140094CA34 /* Main.storyboard */,
 				2E219F291E21E0140094CA34 /* Assets.xcassets */,
 				2E219F2B1E21E0140094CA34 /* LaunchScreen.storyboard */,
@@ -277,6 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E219F251E21E0140094CA34 /* ViewController.m in Sources */,
+				2E219F521E21E0620094CA34 /* QRadioButton.m in Sources */,
 				2E219F221E21E0140094CA34 /* AppDelegate.m in Sources */,
 				2E219F1F1E21E0140094CA34 /* main.m in Sources */,
 			);
