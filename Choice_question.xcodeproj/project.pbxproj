@@ -212,7 +212,7 @@
 				TargetAttributes = {
 					2E219F191E21E0140094CA34 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = C49F86L9CJ;
+						DevelopmentTeam = UQFY34KK43;
 						ProvisioningStyle = Automatic;
 					};
 					2E219F321E21E0140094CA34 = {
@@ -433,7 +433,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = C49F86L9CJ;
+				DEVELOPMENT_TEAM = UQFY34KK43;
 				INFOPLIST_FILE = Choice_question/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.zxy.Choice-question";
@@ -445,7 +445,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = C49F86L9CJ;
+				DEVELOPMENT_TEAM = UQFY34KK43;
 				INFOPLIST_FILE = Choice_question/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.zxy.Choice-question";
@@ -522,6 +522,7 @@
 				2E219F491E21E0140094CA34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2E219F4A1E21E0140094CA34 /* Build configuration list for PBXNativeTarget "Choice_questionTests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +531,7 @@
 				2E219F4C1E21E0140094CA34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2E219F4D1E21E0140094CA34 /* Build configuration list for PBXNativeTarget "Choice_questionUITests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +540,7 @@
 				2E219F4F1E21E0140094CA34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
